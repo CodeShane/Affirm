@@ -13,7 +13,7 @@ Affirm provides a lot of end-user options with minimal overhead by delivering me
 
 Contributors and supporters are welcome. I will gratefully acccept translations, suggestions, and pull requests.
 
-<a class="donateLink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=shane@codeshane.com&item_name=Donation+for+Affirm">Donors can give via PayPal™.</a>
+<a class="donateLink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=shane@codeshane.com&item_name=Donation+for+Affirm">Donors can support my free projects via PayPal™.</a>
 
 ###Fine Print###
 
