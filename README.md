@@ -12,7 +12,6 @@ Affirm provides a lot of end-user options with minimal overhead by delivering me
 ##Contributions##
 
 Contributors and supporters are welcome. I will gratefully acccept translations, pull requests, and gifts/donations via paypal.
-<a>link pending</a>
 
 <div style="margin:0 1.75em;padding-top:1.75em;text-align:center;max-width:40%;clear:right;" class="right"><p>If you like Affirm, please support my ad-free development projects with a donation via paypal!</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="width:100%;">
