@@ -18,4 +18,4 @@ Contributors and supporters are welcome. I will gratefully acccept translations,
 
 ###Fine Print###
 
-Copyright © 2010-2012, Shane Ian Robinson. All Rights Reserved.
+Copyright © 2010-2013, Shane Ian Robinson. All Rights Reserved.
