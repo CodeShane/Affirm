@@ -14,9 +14,8 @@ Affirm provides a lot of end-user options with minimal overhead by delivering me
 
 Affirm is currently only supported through the Play store. You may manually install (side-load) Affirm at your own risk, as these files are unsupported and provided without warranty of any kind.
 
-<a href="http://codeshane.com/Affirm_1-0.apk">http://codeshane.com/Affirm_1-0.apk</a>
-<a href="http://codeshane.com/Affirm_0-7.apk">http://codeshane.com/Affirm_0-7.apk</a>
-
+<ul><li><a href="http://codeshane.com/Affirm_1-0.apk">http://codeshane.com/Affirm_1-0.apk</a></li>
+<li><a href="http://codeshane.com/Affirm_0-7.apk">http://codeshane.com/Affirm_0-7.apk</a></li></ul>
 ##Contributions##
 
 Contributors and supporters are welcome. I will gratefully accept translations, suggestions, and pull requests.
