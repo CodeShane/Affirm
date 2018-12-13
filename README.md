@@ -1,6 +1,8 @@
 Affirm
 ======
 
+Affirm is no longer maintained. It was a free app released through the Google Play store from 2010-2014.
+
 Affirm is an Android application that intermittently reminds you of your self-affirmations, goals, resolutions, or whatever else you choose to add.
 These affirmations, when enabled, work from the background so the device can continue normal use.
 
@@ -12,10 +14,16 @@ Affirm provides a lot of end-user options with minimal overhead by delivering me
 
 ##Download##
 
-Affirm is currently only supported through the Play store. You may manually install (side-load) Affirm at your own risk, as these files are unsupported and provided without warranty of any kind.
+Affirm was provided without warranty of any kind.
+The only official installation method for Affirm was through the Google Play store.
+Downloads of Affirm were also available for manual installation (side-load) at your own risk, for users who did not have access to the Google Play store.
 
-<ul><li><a href="http://codeshane.com/Affirm_1-0.apk">http://codeshane.com/Affirm_1-0.apk</a></li>
-<li><a href="http://codeshane.com/Affirm_0-7.apk">http://codeshane.com/Affirm_0-7.apk</a></li></ul>
+<ul>
+  <li>(Downloads and links removed. Affirm is no longer maintained.)</li>
+  <li>http://codeshane.com/Affirm_1-0.apk</li>
+  <li>http://codeshane.com/Affirm_0-7.apk</li>
+</ul>
+
 ##Contributions##
 
 Contributors and supporters are welcome. I will gratefully accept translations, suggestions, and pull requests.
@@ -24,4 +32,4 @@ Contributors and supporters are welcome. I will gratefully accept translations, 
 
 ###Fine Print###
 
-Copyright © 2010-2013, Shane Ian Robinson. All Rights Reserved.
+Copyright © 2010-2018, Shane Ian Robinson. All Rights Reserved.
