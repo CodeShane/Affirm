@@ -30,6 +30,6 @@ Contributors and supporters are welcome. I will gratefully accept translations, 
 
 <a class="donateLink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=shane@codeshane.com&item_name=Donation+for+Affirm">Donors can support my free projects via PayPal™.</a>
 
-### Fine Print
+## Fine Print
 
 Copyright © 2010-2018, Shane Ian Robinson. All Rights Reserved.
