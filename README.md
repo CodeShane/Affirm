@@ -12,7 +12,7 @@ Affirmations are triggered by a scheduled Intent to a BroadcastReceiver; this mi
 
 Affirm provides a lot of end-user options with minimal overhead by delivering messages via Toast with customized duration, font color, positioning, and more in the works.
 
-##Download##
+## Download
 
 Affirm was provided without warranty of any kind.
 The only official installation method for Affirm was through the Google Play store.
@@ -24,12 +24,12 @@ Downloads of Affirm were also available for manual installation (side-load) at y
   <li>http://codeshane.com/Affirm_0-7.apk</li>
 </ul>
 
-##Contributions##
+## Contributions
 
 Contributors and supporters are welcome. I will gratefully accept translations, suggestions, and pull requests.
 
 <a class="donateLink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=shane@codeshane.com&item_name=Donation+for+Affirm">Donors can support my free projects via PayPal™.</a>
 
-###Fine Print###
+### Fine Print
 
 Copyright © 2010-2018, Shane Ian Robinson. All Rights Reserved.
