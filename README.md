@@ -27,7 +27,3 @@ Downloads of Affirm were also available for manual installation (side-load) at y
 ## Contributions
 
 Contributors and supporters are welcome. I will gratefully accept translations, suggestions, and pull requests.
-
-## Fine Print
-
-Copyright © 2010-2018, Shane Robinson. All Rights Reserved.
