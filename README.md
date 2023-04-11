@@ -20,16 +20,14 @@ Downloads of Affirm were also available for manual installation (side-load) at y
 
 <ul>
   <li>(Downloads and links removed. Affirm is no longer maintained.)</li>
-  <li>http://codeshane.com/Affirm_1-0.apk</li>
-  <li>http://codeshane.com/Affirm_0-7.apk</li>
+  <li>http:// /Affirm_1-0.apk</li>
+  <li>http:// /Affirm_0-7.apk</li>
 </ul>
 
 ## Contributions
 
 Contributors and supporters are welcome. I will gratefully accept translations, suggestions, and pull requests.
 
-<a class="donateLink" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=shane@codeshane.com&item_name=Donation+for+Affirm">Donors can support my free projects via PayPal™.</a>
-
 ## Fine Print
 
-Copyright © 2010-2018, Shane Ian Robinson. All Rights Reserved.
+Copyright © 2010-2018, Shane Robinson. All Rights Reserved.
